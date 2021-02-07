@@ -88,7 +88,6 @@ class Index extends Component {
   // 获取九宫格数据
   getGrids = async () => {
     const { status, data } = await getGrid()
-    console.log(data)
     if (status === 200) {
       this.setState(
         {

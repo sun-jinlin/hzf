@@ -7,9 +7,17 @@ export function getSwiper() {
     url: '/home/swiper'
   })
 }
-export function getGrid(area = '北京') {
+// 获取九宫格数据
+export function getGrid(area = 'AREA|88cff55c-aaa4-e2e0') {
   return request({
     url: '/home/groups',
+    params: area
+  })
+}
+// 获取最新资讯
+export function getNews(area = 'AREA|88cff55c-aaa4-e2e0') {
+  return request({
+    url: '/home/news',
     params: area
   })
 }

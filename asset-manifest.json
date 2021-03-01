@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/hzf/static/css/main.db507255.chunk.css",
-    "main.js": "/github.io/hzf/static/js/main.b0c3caee.chunk.js",
-    "main.js.map": "/github.io/hzf/static/js/main.b0c3caee.chunk.js.map",
-    "runtime-main.js": "/github.io/hzf/static/js/runtime-main.6ec65d58.js",
-    "runtime-main.js.map": "/github.io/hzf/static/js/runtime-main.6ec65d58.js.map",
-    "static/css/2.bd4ee3ec.chunk.css": "/github.io/hzf/static/css/2.bd4ee3ec.chunk.css",
-    "static/js/2.2990e2af.chunk.js": "/github.io/hzf/static/js/2.2990e2af.chunk.js",
-    "static/js/2.2990e2af.chunk.js.map": "/github.io/hzf/static/js/2.2990e2af.chunk.js.map",
-    "index.html": "/github.io/hzf/index.html",
-    "static/css/2.bd4ee3ec.chunk.css.map": "/github.io/hzf/static/css/2.bd4ee3ec.chunk.css.map",
-    "static/css/main.db507255.chunk.css.map": "/github.io/hzf/static/css/main.db507255.chunk.css.map",
-    "static/js/2.2990e2af.chunk.js.LICENSE.txt": "/github.io/hzf/static/js/2.2990e2af.chunk.js.LICENSE.txt",
-    "static/media/iconfont.css": "/github.io/hzf/static/media/iconfont.fecaec1d.eot"
+    "main.css": "/hzf/static/css/main.aafb9915.chunk.css",
+    "main.js": "/hzf/static/js/main.b0c3caee.chunk.js",
+    "main.js.map": "/hzf/static/js/main.b0c3caee.chunk.js.map",
+    "runtime-main.js": "/hzf/static/js/runtime-main.6790b114.js",
+    "runtime-main.js.map": "/hzf/static/js/runtime-main.6790b114.js.map",
+    "static/css/2.bd4ee3ec.chunk.css": "/hzf/static/css/2.bd4ee3ec.chunk.css",
+    "static/js/2.2990e2af.chunk.js": "/hzf/static/js/2.2990e2af.chunk.js",
+    "static/js/2.2990e2af.chunk.js.map": "/hzf/static/js/2.2990e2af.chunk.js.map",
+    "index.html": "/hzf/index.html",
+    "static/css/2.bd4ee3ec.chunk.css.map": "/hzf/static/css/2.bd4ee3ec.chunk.css.map",
+    "static/css/main.aafb9915.chunk.css.map": "/hzf/static/css/main.aafb9915.chunk.css.map",
+    "static/js/2.2990e2af.chunk.js.LICENSE.txt": "/hzf/static/js/2.2990e2af.chunk.js.LICENSE.txt",
+    "static/media/iconfont.css": "/hzf/static/media/iconfont.fecaec1d.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ec65d58.js",
+    "static/js/runtime-main.6790b114.js",
     "static/css/2.bd4ee3ec.chunk.css",
     "static/js/2.2990e2af.chunk.js",
-    "static/css/main.db507255.chunk.css",
+    "static/css/main.aafb9915.chunk.css",
     "static/js/main.b0c3caee.chunk.js"
   ]
 }
